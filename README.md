@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:18/09/2026
-## Register Number:212225230065
-## Name:E. Vamsi Krishna
+## Register Number:212225230018
+## Name:A.Ravi teja royal
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
